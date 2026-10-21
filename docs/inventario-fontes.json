@@ -1,0 +1,91 @@
+{
+  "data_revisao": "2026-10-20",
+  "origem": "Pasta local Case ASN fornecida por Lucas",
+  "arquivos": [
+    {
+      "nome": "ABT_Metricas_Aluno.dbc",
+      "bytes": 679313,
+      "sha256": "e707c4d0252b76a4ce4c61406d7c6035da401e5299fe8b59753fbab2e7762714"
+    },
+    {
+      "nome": "ABT_Metricas_Aluno.html",
+      "bytes": 1898114,
+      "sha256": "712c3e18e7f6c97d53455f17f75ad916815b8fb3246a2303f0886c811a6e99f8"
+    },
+    {
+      "nome": "Dicionário de dados.xlsx",
+      "bytes": 165556,
+      "sha256": "48b6fb3ed9cd20d60f9e8b616225aa4189d2ec39c76edfe56e140f3dddfd056c"
+    },
+    {
+      "nome": "Documentação da ABT_ Motor de Engajamento de Alunos.docx",
+      "bytes": 12141,
+      "sha256": "3cc5032922c2b1eeaf7386b2262fe368403c1f467637aea423ed0aedff20785e"
+    },
+    {
+      "nome": "Métricas de Engajamento para Aluno.docx",
+      "bytes": 27436,
+      "sha256": "7a12634e0941a1903dfbc7115cabbb1f9b0ae836cf61622b3dccf6dd17e27aca"
+    },
+    {
+      "nome": "Métricas de Enganjamento ASN.pptx",
+      "bytes": 16754450,
+      "sha256": "8c6334ecf23b069176518e61df332fabc5e31ffebe884fc8636dad91e1905fd4"
+    },
+    {
+      "nome": "Métricas de Enganjamento ASN.pptx.pdf",
+      "bytes": 2620386,
+      "sha256": "a419a2bbb3b870b6481e1b0016a365537db306199697c43e59a7670f551b4749"
+    },
+    {
+      "nome": "O Motor de Engajamento.pptx",
+      "bytes": 1339180,
+      "sha256": "4934251bbc676fcdb6d14ae2faf97b3dcd13dc2d7796a10b74e59f2af24ad4d3"
+    },
+    {
+      "nome": "alunos_geral.csv",
+      "bytes": 419474,
+      "sha256": "4a0fe22eeee0f16a461c38b0b3568f4b822c11e51c23729aabe924b57b666b4a"
+    },
+    {
+      "nome": "alunos_geral.xlsx",
+      "bytes": 267296,
+      "sha256": "d5601cec8ae14454e05d28850801adb28ecff5ae4103bd068316a21a320322d0"
+    },
+    {
+      "nome": "progresso.csv",
+      "bytes": 180990,
+      "sha256": "bffb5512961dbafe01c08fc2df30437e77d08809c3709b73aec20ebedd924975"
+    },
+    {
+      "nome": "progresso.xlsx",
+      "bytes": 126939,
+      "sha256": "8030a66bc8db795d401d2b2cfb69d54dfaddda5b78bf5d44d5f7fddcd57b2f85"
+    },
+    {
+      "nome": "progresso_total.csv",
+      "bytes": 186167,
+      "sha256": "cdee4aa7023b744e88ba878e2ac5f48aa82abde0fbe77086f1c693d5883156f8"
+    },
+    {
+      "nome": "progresso_total.xlsx",
+      "bytes": 174518,
+      "sha256": "406dc771ceecde9fe7340ecc668ab22069c3fa8475a7477a55404ef727e088a8"
+    },
+    {
+      "nome": "tempo_aula.xlsx",
+      "bytes": 23008,
+      "sha256": "5918a7cb97d193064d790a71f1602f85d280361e1d9798d663728cc97c35469c"
+    },
+    {
+      "nome": "usuarios_geral.csv",
+      "bytes": 4444,
+      "sha256": "391ab222eeb80123538a117c7e255e5bcedd3473b4179ff0bdb9dcd252607e1d"
+    },
+    {
+      "nome": "usuarios_geral.xlsx",
+      "bytes": 12895,
+      "sha256": "940208f2eaf5a1abfecfee112f2192f5841786553f41e1870111672c33343547"
+    }
+  ]
+}
