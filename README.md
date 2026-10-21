@@ -19,6 +19,7 @@ Seu grupo já tem código para cinco dimensões — frequência, progresso, prof
 | [Andamento e próximos passos](docs/01-andamento.md) | Saber onde estamos e o que falta até a entrega |
 | [Mapa de todos os materiais](docs/02-materiais.md) | Entender a função de cada um dos 17 arquivos recebidos e dos notebooks do GitHub |
 | [Dados e construção da ABT](docs/03-dados-e-abt.md) | Entender as tabelas, seus relacionamentos e os limites da amostra |
+| [Análise descritiva das tabelas](docs/06-analise-descritiva.md) | Ver campos, distribuições, qualidade e o papel de cada base |
 | [Métricas e diferenças entre versões](docs/04-metricas.md) | Ler as fórmulas sem precisar decifrar os notebooks |
 | [Revisão técnica e dúvidas](docs/05-validacoes-e-duvidas.md) | Separar problemas observados, decisões necessárias e sugestões |
 | [Contexto permanente do projeto](PROJECT_CONTEXT.md) | Retomar o trabalho em conversas futuras |
