@@ -41,12 +41,13 @@ O notebook é mais organizado na definição das métricas e no tratamento de da
 | De quem é `ABT_Metricas_Aluno`? | Outro grupo, compartilhado como referência refinada, informado por Lucas |
 | Há decisões da última aula ausentes dos materiais? | Lucas informou que não |
 | Qual o prazo? | `7/11`, informado por Lucas; 2026 inferido do contexto |
+| O que será entregue? | ABT com métricas e um rascunho de dashboard, confirmado por Lucas |
 | A ABT externa preserva alunos sem acesso? | Sim, o código inclui a lista de elegíveis; métricas específicas ficam zero ou nulas |
 | DBC e HTML são versões diferentes de código? | Os textos das 77 células são iguais após ordenar por `position` |
 
 ## O que ainda perguntar à demandante e ao grupo
 
-1. Qual é o entregável de 7/11 e o critério de aceitação: ABT, apresentação, painel ou combinação?
+1. Quais são os critérios de aceitação da ABT e do rascunho de dashboard de 7/11? Qual ferramenta será usada para o painel?
 2. Qual decisão será tomada a partir da ABT? Como reconhecer que o acompanhamento trouxe resultado?
 3. Quem deve entrar: todos, somente pagantes, somente matrículas ativas ou uma safra específica?
 4. Qual regra de acesso/consumo vale e quais campos representam primeiro play, conclusão e último acesso?
