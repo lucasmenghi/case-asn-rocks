@@ -17,6 +17,7 @@ Há duas frentes na apresentação `O Motor de Engajamento`: perguntas de negóc
 | Agrupamento de perfis | Notebook `01`, células 33–36 | K-Means com quatro grupos e saída de silhouette ≈ 0,5501; busca de K salva como cancelada |
 | Oito conjuntos de métricas | Exportações `ABT_Metricas_Aluno` | Referência compartilhada por outro grupo; não é entrega do nosso grupo |
 | ABT persistida e execução automática | No notebook `00`, escrita Delta está comentada | Não comprovadas no ambiente real |
+| Tradução SQL do grupo | Pasta `abt/sql/`, publicada em 23/10/2026 | Métricas e score verificados localmente para 73 alunos; validação no Databricks pendente |
 | Painel e processo de acompanhamento | Aparecem como finalidade/próximos passos | Não há entrega funcional comprovada nos materiais examinados |
 
 Não há uma ata completa das aulas nem histórico confiável de quem fez cada parte. As datas de modificação dos arquivos recebidos também não permitem reconstruir a cronologia das decisões. O documento de métricas contém uma anotação de aula de 07/07/2026, mas isso não estabelece a data de cada trecho.

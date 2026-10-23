@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "fonte": "Arquivos locais; corte 2026-01-26 UTC",
+  "motor": "DuckDB com tradução sqlglot e adaptadores explícitos",
+  "statements_parseados": 17,
+  "alunos_comparados": 73,
+  "campos_numericos_comparados": [
+    "Frequencia_Dias",
+    "velocidade_progresso",
+    "profundidade_total_segundos",
+    "Dias_Recencia",
+    "qtd_aula_revistas",
+    "frequencia_pr",
+    "progresso_pr",
+    "profundidade_pr",
+    "recencia_pr",
+    "revisao_pr",
+    "score_classificao"
+  ],
+  "tolerancia_absoluta": 1e-10,
+  "categorias_comparadas": 6,
+  "checagens_sql_falhas": 0,
+  "caso_variancia_nula": "PASS: score NULL, Não Classificado",
+  "distribuicao_local": {
+    "Parcial": 30,
+    "Alto Risco": 19,
+    "Acima da Média": 18,
+    "Engajado": 3,
+    "Em Risco": 3
+  },
+  "limite": "Não executado no Databricks. Percentis locais por posto, sem simular sketch distribuído. Não comprova paridade com saídas históricas do PySpark nem permissões/CTAS Delta."
+}

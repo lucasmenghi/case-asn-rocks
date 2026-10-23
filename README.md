@@ -14,6 +14,8 @@ Seu grupo já tem código para cinco dimensões — frequência, progresso, prof
 
 ## O que ler
 
+Para uma leitura guiada, use o [PDF de contexto e conversa](output/pdf/Guia_Projeto_ASN_Rocks.pdf), atualizado em 23/10/2026. Inclui o diagrama original e exemplos de perguntas para discutir o case.
+
 | Leitura | Para que serve |
 |---|---|
 | [Andamento e próximos passos](docs/01-andamento.md) | Saber onde estamos e o que falta até a entrega |
@@ -41,6 +43,8 @@ flowchart LR
 Os CSV locais abrangem 73 alunos; a regra do outro grupo seleciona 62 como pagantes. Os acessos detalhados vão de 18/11/2025 a 26/01/2026. **Data de revisão da documentação não é data dos dados.** Para reproduzir a análise histórica, usar uma data de corte explícita.
 
 ## Código existente e ambiente
+
+- **[ABT do grupo traduzida para SQL](abt/sql/README.md):** implementação das cinco dimensões e do score, com instruções e checagens. Validação local concluída; execução no Databricks ainda pendente.
 
 - [`abt/00_engajamento.ipynb`](abt/00_engajamento.ipynb): exploração, métricas, experimentos de progresso global/safra e score.
 - [`abt/01_engajamento_clusters.ipynb`](abt/01_engajamento_clusters.ipynb): repete a construção das cinco dimensões e adiciona K-Means.

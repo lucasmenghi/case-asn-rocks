@@ -1,6 +1,6 @@
 # Contexto do projeto
 
-Atualizado em 20/10/2026.
+Atualizado em 23/10/2026.
 
 - Participante: Lucas Menghi. Curso ASN Rocks, case de negócio que simula um projeto real.
 - A professora atua como demandante. O desenvolvimento é dividido em grupos.
@@ -17,6 +17,7 @@ Atualizado em 20/10/2026.
 - A amostra é histórica, com última visualização detalhada em 26/01/2026. Usar corte explícito ao reproduzir resultados.
 - Lucas informou ter carregado as bases na bronze com os nomes originais. O nome completo catálogo.schema ainda não foi confirmado. A carga não foi consultada por esta análise.
 - Análise descritiva calculada dos arquivos locais em `docs/06-analise-descritiva.md`, com script reprodutível em `scripts/analisar_bases.py`.
-- Nesta etapa foi autorizada a organização e documentação. Mudanças de regra, refatoração do motor e execução no Databricks ficam para continuidade do trabalho.
+- Em 23/10, Lucas pediu um PDF de contexto e a tradução da ABT do próprio grupo de PySpark para SQL, publicada no repositório. Entregas: `output/pdf/Guia_Projeto_ASN_Rocks.pdf` e `abt/sql/`. O SQL preserva as cinco dimensões e o score final; ajustes técnicos e limites estão no README dessa pasta. Validação local PASS para 73 alunos; execução no Databricks ainda não realizada.
+- Diagrama original do slide 4 foi examinado visualmente e incluído como anexo no PDF. Cópia da imagem original em `docs/assets/diagrama_original.png`.
 
 Para retomar: ler o README e `docs/01-andamento.md`, organizar a entrega da ABT e do rascunho de dashboard e escolher com a demandante quais definições de métricas serão adotadas.
