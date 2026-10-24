@@ -2,7 +2,7 @@
 
 Este projeto simula uma demanda real da plataforma de cursos ASN Rocks. A professora representa a demandante e os alunos trabalham em grupos. A pergunta central identificada nos materiais é: **quem está estudando, quem está se afastando e como orientar ações de acompanhamento?**
 
-O desenvolvimento acontece no **Databricks**, com Spark/PySpark e SQL. A próxima entrega informada por Lucas é **7/11**, interpretada nesta documentação como **07/11/2026**. Lucas confirmou que o escopo é **ABT com métricas e um rascunho de dashboard**. Os critérios de avaliação e a ferramenta do dashboard ainda precisam ser definidos.
+O desenvolvimento acontece no **Databricks**, com Spark/PySpark e SQL. A próxima entrega informada por Lucas é **7/11**, interpretada nesta documentação como **07/11/2026**. Lucas confirmou que o escopo é **ABT com métricas, um rascunho de dashboard para apresentação e um modelo de cronograma de trabalho com etapas e prazos estimados**. Os critérios de avaliação e a ferramenta do dashboard ainda precisam ser definidos.
 
 ## Entenda o projeto em cinco minutos
 
