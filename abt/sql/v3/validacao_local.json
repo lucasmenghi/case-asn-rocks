@@ -1,0 +1,19 @@
+{
+  "status": "PASS_LOCAL_SMOKE",
+  "views": 40,
+  "alunos": 73,
+  "alunos_distintos": 73,
+  "elegiveis_v2": 62,
+  "colunas_saida": 68,
+  "dimensao_teste": "manual parcial usada como fixture; dimensao completa V2 ausente",
+  "databricks_executado": false,
+  "teste_matricula_duplicada": "PASS",
+  "teste_denominador_zero": "PASS",
+  "alertas_fixture": [
+    [
+      "dim_completa_duracao_invalida",
+      1
+    ]
+  ],
+  "limites": "transpilacao DuckDB; percentis locais por posto; sem certificacao numerica da V2"
+}
